@@ -12,3 +12,4 @@ function IDcompare(){
    */
 
     /** READ THE FILES GOES HERE */
+}
